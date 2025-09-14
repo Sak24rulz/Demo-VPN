@@ -1,0 +1,11 @@
+
+{
+  "name": "vpn-demo",
+  "version": "1.0.0",
+  "main": "App.js",
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.74.0",
+    "react-native-vector-icons": "^10.0.3"
+  }
+}
